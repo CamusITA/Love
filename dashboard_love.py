@@ -1,8 +1,4 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-import scipy.stats
-from scipy.stats import norm
 
 st.set_page_config(
     page_title="A/B Test Comparison", page_icon="📈", initial_sidebar_state="expanded"
